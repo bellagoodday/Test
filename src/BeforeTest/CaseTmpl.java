@@ -13,6 +13,7 @@ import android.test.ActivityInstrumentationTestCase2;
 		
 		private static String packageName="com.shishike.calm";
 		private static String mainActivity="com.shishike.calm.splash.autoset.StartActivity_";
+		//0000
 		public MySolo solo;
 		public Activity activity;
 		public FastFoodAction fastFoodAction;
